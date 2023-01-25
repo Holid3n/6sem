@@ -73,3 +73,24 @@
  4. Ссылки
  5. Именованные каналы
  6. Сокеты
+ ![image](https://user-images.githubusercontent.com/97594483/214491790-a8ba024d-aae6-48a4-af33-fdfe3a505a67.png)
+
+ ![image](https://user-images.githubusercontent.com/97594483/214491733-d827d9af-2fdf-40cf-90cb-5107320401b8.png)
+ 
+ Задание №2
+ Работа с файлами
+ 
+ Операции:
+ Создание
+ Редактирование
+ Чтение
+ Удаление
+ Текстовый файл
+ ![image](https://user-images.githubusercontent.com/97594483/214492997-1cb964fa-3abc-4951-9e62-11345488e06d.png)
+ Директория
+ ![image](https://user-images.githubusercontent.com/97594483/214497146-1fb200d9-bf81-4de1-bf2b-379a9f9352fa.png)
+ “l” symlink символическая ссылка
+![image](https://user-images.githubusercontent.com/97594483/214498077-b8cfbdf1-c013-47b0-834c-2d3afde9bc0f.png)
+
+
+ 
