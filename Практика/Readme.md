@@ -1,4 +1,4 @@
-<p><a href="https://docs.google.com/document/d/1TuVWf8BgzWuZ9ARzjzOfYk34Cy43XGJr/edit">Отчёт</a></p>
+<p><a href="https://drive.google.com/drive/folders/1sHG7amdU4saEsCIHz5ya99FE8vlFXYTO?usp=sharing">Отчёт</a></p>
 <p><a href="https://github.com/Avar1tia/neironki/blob/main/README.md">Код всех нейронок</a></p>
 <p><a href="https://drive.google.com/drive/folders/1NTRZH0bEXG7-j1y_SJ5-eNGL5lPUO8aJ?usp=sharing">Видео по нейронкам</a></p>
 <p><a href="https://drive.google.com/file/d/11T5D75gj5bwEBgnvhfSvD01v9AX1-0iv/view?usp=sharing">Обзор нейронок</a></p>
